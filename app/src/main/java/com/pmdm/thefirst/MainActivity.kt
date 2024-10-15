@@ -26,6 +26,10 @@ import androidx.compose.ui.unit.sp
 import androidx.core.content.ContextCompat.getString
 import com.pmdm.thefirst.ui.theme.TheFirstTheme
 
+/**
+ * test de Simon Dice
+ * rama principal
+ */
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
