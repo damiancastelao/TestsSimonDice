@@ -28,7 +28,7 @@ import com.pmdm.thefirst.ui.theme.TheFirstTheme
 
 /**
  * test de Simon Dice
- * rama principal
+ * rama chequeo de secuencia
  */
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
